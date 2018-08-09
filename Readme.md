@@ -4,16 +4,18 @@
 
 ## Status
 
-Build Status: Pending
-Discord: Pending
-Docs: Pending
-Waffle/ZenHub: Pending
+![Build](img/Build.svg)
+![Discord](img/Discord.svg)
+![Docs](img/Docs.svg)
+![Waffle](img/Waffle.svg)
 
-This is an open source project for Fleet Coordination for Autonomous Drones.
+This is an open source project on Fleet Coordination for Autonomous Drones.
 
-The project is based on coordinating a large amount of AV Drones to communicate with another. The idea arose with building a Drone light show and how the drones would be able to perform with each other.
+The project is based on coordinating a large amount of AV Drones to communicate with another. The idea arose with building a drone light show and how these drones would be able to perform in sync with each other.
 
-Currently, the project is in development, this page will be updated once the group analysis and research has been completed.
+Currently, the project is in development. This page will be updated periodically with the group members.
+
+To get Started we have created some links here to get our group moving.
 
 ### Enter a name that you think is best for this open source project
 
@@ -27,7 +29,7 @@ Currently, the project is in development, this page will be updated once the gro
 
 This is a new project built by Udacity Students from the Flying Car Nanodegree.
 
-This is a work of progress, if you are interested to contribute talk, etc. Please join our discord group.
+This is a work of progress, if you are interested to contribute, talk, etc. Please join our future posted discord group, which will be posted here.
 
 ### Enter your roadmap suggestions for this project
 
@@ -35,7 +37,7 @@ This is a work of progress, if you are interested to contribute talk, etc. Pleas
 
 ## Paper
 
-The paper of the program will be updated and made as we progress.
+The paper of the program will be made in a later date.
 
 ## F.A.Q.
 
@@ -45,7 +47,7 @@ This link will work once we have established our name and website.
 
 ## Research Links
 
-Useful links to help the project
+Useful links to help the project.
 
 [Crazy Swarm](https://www.bitcraze.io/2016/08/crazyswarm/)
 
