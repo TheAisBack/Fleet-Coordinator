@@ -1,6 +1,6 @@
 # Fleet Coordinator
 
-![Drone](img/drone.png)
+![Drone](img/drone.png = 300x300)
 
 Build Status: Pending
 
